@@ -1,0 +1,30 @@
+@import-normalize; /* bring in normalize.css styles */
+
+body {
+  margin: 0;
+  font-family: monospace;
+  user-select: none;
+  /* cursor: pointer; */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h2,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  padding: 0;
+}
+li {
+  margin: 0;
+  list-style: none;
+}
+span {
+  padding: 0;
+}
